@@ -20,15 +20,15 @@ In the third line follow 3 integers, p, m and g, which represent the size of a s
 Output
 Based on the problem description, it will print the minimum amount of walls to stop the Titans' attack.
 
-             Input Samples	   
+             INPUT SAMPLES	   
              
      3 20            8 20            4 6
      MPG             MGGPGGGP        GPMP
      3 8 10          3 8 10          3 4 5
   
-             Output Samples
+             OUTPUT SAMPLES
              
      2               4               3
 
 
-this is an exercise from BeeCrowd by Eliton Machado,UDESC.
+This is an exercise from BeeCrowd by Eliton Machado,UDESC.
